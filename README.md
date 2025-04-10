@@ -17,7 +17,7 @@ Top 10 Finalist @ MLH Hackbyte 3.0 | Kaggle Competitions Expert
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?logo=yolo&logoColor=black" alt="YOLO">
+  <img src="https://img.shields.io/badge/Scikit-Learn-00FFFF?logo=yolo&logoColor=black" alt="YOLO">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
