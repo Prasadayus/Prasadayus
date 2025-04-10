@@ -23,16 +23,16 @@ Top 10  @ MLH Hackbyte 3.0 | Kaggle Competitions Expert
 
 ## 🏆 Notable Projects
 
-### 🤖 Facial Recognition Attendance System [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Prasadayus/facial-recognition-attendance)
+### 🤖 Facial Recognition Attendance System [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Prasadayus/Facial-Attendance-System)
 - Achieved **96.5% accuracy** using DenseNet-121 (12% improvement over baseline CNN)
 - Real-time detection pipeline with OpenCV + Flask integration
 - Tech Stack: Transfer Learning, ResNet-50, InceptionV3
 
-### 😊 Emotion Text Classification [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Prasadayus/emotion-classification)
+### 😊 Emotion Text Classification [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Prasadayus/Text-Emotion-Classification)
 - **93.5% accuracy** using GRU architecture (30% better than traditional models)
 - Optimized with Word2Vec + Optuna hyperparameter tuning
 
-### 🏀 YOLO + SAM Object Detection [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Prasadayus/object-detection-yolo-sam)
+### 🏀 YOLO + SAM Object Detection [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Pin4sf/ObjectDetection_YOLO_SAM)
 - mAP@50: **0.993** | Inference Time: **32.34ms/frame**
 - Integrated SAM for precise segmentation + BOT-sort tracking
 - Custom basketball dataset training
