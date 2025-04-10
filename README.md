@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hi, I'm Prasad Ayush Kumar
 **Machine Learning Engineer | Computer Vision Specialist | AWS AI-ML Scholar**  
 B.Tech in Computer Science @ IIIT Jabalpur (2022-2026)  
-Top 10 Finalist @ MLH Hackbyte 3.0 | Kaggle Competitions Expert  
+Top 10  @ MLH Hackbyte 3.0 | Kaggle Competitions Expert  
 
 ## 🚀 Technical Arsenal
 
