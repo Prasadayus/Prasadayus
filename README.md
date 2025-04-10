@@ -66,8 +66,9 @@ Top 10 Finalist @ MLH Hackbyte 3.0 | Kaggle Competitions Expert
 <h3 align="center">Let's Connect & Build the Future of AI!</h3>
 <p align="center">
   <a href="mailto:prasadayushkumar07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/prasadayushkumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/prasadayushkumar"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/prasad-ayush-kumar-77ayu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/prasadayushkumar07"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.kaggle.com/prasadayushkumar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
 </p>
 
 <div align="center">
