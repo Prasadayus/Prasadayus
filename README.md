@@ -3,10 +3,6 @@
 B.Tech in Computer Science @ IIIT Jabalpur (2022-2026)  
 Top 10 Finalist @ MLH Hackbyte 3.0 | Kaggle Competitions Expert  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/prasadayushkumar)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle)](https://kaggle.com/prasadayushkumar)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/prasadayushkumar)
-
 ## 🚀 Technical Arsenal
 
 **🧠 Core Competencies**  
