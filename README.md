@@ -11,12 +11,14 @@ Top 10 Finalist @ MLH Hackbyte 3.0 | Kaggle Competitions Expert
 **🛠️ Technologies**  
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
-  <img src="https://img.shields.io/badge/Scikit-Learn-00FFFF?logo=yolo&logoColor=black" alt="YOLO">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="GCP">
 </div>
 
 ## 🏆 Notable Projects
@@ -29,7 +31,6 @@ Top 10 Finalist @ MLH Hackbyte 3.0 | Kaggle Competitions Expert
 ### 😊 Emotion Text Classification [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Prasadayus/emotion-classification)
 - **93.5% accuracy** using GRU architecture (30% better than traditional models)
 - Optimized with Word2Vec + Optuna hyperparameter tuning
-- Live demo: [Streamlit Web App](https://emotion-classifier.streamlit.app)
 
 ### 🏀 YOLO + SAM Object Detection [![GitHub](https://img.shields.io/badge/-Code-181717?logo=github)](https://github.com/Prasadayus/object-detection-yolo-sam)
 - mAP@50: **0.993** | Inference Time: **32.34ms/frame**
