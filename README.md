@@ -45,7 +45,7 @@
 ## 📈 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasadayushkumar&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prasadayus&show_icons=true&theme=tokyonight" alt="Ayush's GitHub Stats" />
 </p>
 
 <p align="center">
